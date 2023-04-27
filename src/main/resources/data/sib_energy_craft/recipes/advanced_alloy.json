@@ -1,0 +1,11 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "sib_energy_craft:mixed_metal_ingot"
+  },
+  "result": {
+    "item": "sib_energy_craft:advanced_alloy"
+  },
+  "experience": 0.05,
+  "cookingTime": 100
+}

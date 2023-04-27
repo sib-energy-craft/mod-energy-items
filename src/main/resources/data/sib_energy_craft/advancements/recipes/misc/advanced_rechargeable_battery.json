@@ -1,0 +1,73 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "sib_energy_craft:advanced_rechargeable_battery"
+    ]
+  },
+  "criteria": {
+    "has_bronze_item_casing": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:bronze_item_casing"
+            ]
+          }
+        ]
+      }
+    },
+    "has_sulfur_dust": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:sulfur_dust"
+            ]
+          }
+        ]
+      }
+    },
+    "has_tin_dust": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:tin_dust"
+            ]
+          }
+        ]
+      }
+    },
+    "has_copper_cable_isolated": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:copper_cable_isolated"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sib_energy_craft:advanced_rechargeable_battery"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bronze_item_casing",
+      "has_sulfur_dust",
+      "has_tin_dust",
+      "has_copper_cable_isolated",
+      "has_the_recipe"
+    ]
+  ]
+}

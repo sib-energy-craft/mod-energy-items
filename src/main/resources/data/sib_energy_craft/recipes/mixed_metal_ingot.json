@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BBB",
+    "TTT"
+  ],
+  "key": {
+    "I": {
+      "item": "sib_energy_craft:iron_plate"
+    },
+    "B": {
+      "item": "sib_energy_craft:bronze_plate"
+    },
+    "T": {
+      "item": "sib_energy_craft:tin_plate"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:mixed_metal_ingot",
+    "count": 2
+  }
+}

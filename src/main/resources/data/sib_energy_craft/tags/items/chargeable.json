@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "sib_energy_craft:rechargeable_battery"
+    "sib_energy_craft:energy_tool_body",
+    "sib_energy_craft:rechargeable_battery",
+    "sib_energy_craft:advanced_rechargeable_battery"
   ]
 }

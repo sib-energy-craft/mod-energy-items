@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "CIC",
+    " T "
+  ],
+  "key": {
+    "C": {
+      "item": "sib_energy_craft:coil"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "sib_energy_craft:tin_item_casing"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:energy_motor"
+  }
+}

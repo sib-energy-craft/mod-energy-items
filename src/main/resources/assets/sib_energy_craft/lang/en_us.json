@@ -5,8 +5,16 @@
   "item.sib_energy_craft.energy_dust": "Energy Dust",
 
   "item.sib_energy_craft.rechargeable_battery": "Rechargeable Battery",
+  "item.sib_energy_craft.advanced_rechargeable_battery": "Advanced Rechargeable Battery",
 
   "item.sib_energy_craft.energy_crystal": "Energy Crystal",
   "item.sib_energy_craft.energy_circuit": "Energy Circuit",
-  "item.sib_energy_craft.advanced_energy_circuit": "Advanced Energy Circuit"
+  "item.sib_energy_craft.advanced_energy_circuit": "Advanced Energy Circuit",
+
+  "item.sib_energy_craft.coil": "Coil",
+  "item.sib_energy_craft.energy_motor": "Energy Motor",
+  "item.sib_energy_craft.energy_tool_body": "Energy Tool Body",
+
+  "item.sib_energy_craft.mixed_metal_ingot": "Mixed Metal Ingot",
+  "item.sib_energy_craft.advanced_alloy": "Advanced Alloy"
 }

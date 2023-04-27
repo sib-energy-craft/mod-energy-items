@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sib_energy_craft:item/advanced_rechargeable_battery"
+  },
+  "overrides": [
+    { "predicate": { "sib_energy_craft:charged": 0 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery" },
+    { "predicate": { "sib_energy_craft:charged": 0.16 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_16" },
+    { "predicate": { "sib_energy_craft:charged": 0.32 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_32" },
+    { "predicate": { "sib_energy_craft:charged": 0.48 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_48" },
+    { "predicate": { "sib_energy_craft:charged": 0.64 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_64" },
+    { "predicate": { "sib_energy_craft:charged": 0.8 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_80" },
+    { "predicate": { "sib_energy_craft:charged": 0.9 }, "model": "sib_energy_craft:item/advanced_rechargeable_battery_100" }
+  ]
+}

@@ -5,8 +5,16 @@
   "item.sib_energy_craft.energy_dust": "Энергетическая пыль",
 
   "item.sib_energy_craft.rechargeable_battery": "Аккумуляторная батарейка",
+  "item.sib_energy_craft.advanced_rechargeable_battery": "Усовершенствованная аккумуляторная батарейка",
 
   "item.sib_energy_craft.energy_crystal": "Энергетический кристал",
   "item.sib_energy_craft.energy_circuit": "Энергетическая плата",
-  "item.sib_energy_craft.advanced_energy_circuit": "Улучшенная энергетическая плата"
+  "item.sib_energy_craft.advanced_energy_circuit": "Улучшенная энергетическая плата",
+
+  "item.sib_energy_craft.coil": "Катушка",
+  "item.sib_energy_craft.energy_motor": "Мотор",
+  "item.sib_energy_craft.energy_tool_body": "Корпус энергетического инструмента",
+
+  "item.sib_energy_craft.mixed_metal_ingot": "Слиток смешанного металла",
+  "item.sib_energy_craft.advanced_alloy": "Усовершенствованный сплав"
 }

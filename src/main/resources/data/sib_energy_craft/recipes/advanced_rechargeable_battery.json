@@ -1,0 +1,25 @@
+{
+  "type": "sib_energy_craft:crafting_shaped_charged",
+  "pattern": [
+    "C#C",
+    "#S#",
+    "#T#"
+  ],
+  "key": {
+    "#": {
+      "item": "sib_energy_craft:bronze_item_casing"
+    },
+    "S": {
+      "item": "sib_energy_craft:sulfur_dust"
+    },
+    "T": {
+      "item": "sib_energy_craft:tin_dust"
+    },
+    "C": {
+      "item": "sib_energy_craft:copper_cable_isolated"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:advanced_rechargeable_battery"
+  }
+}

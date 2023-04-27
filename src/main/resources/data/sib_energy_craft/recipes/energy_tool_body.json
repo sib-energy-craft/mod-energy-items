@@ -1,0 +1,28 @@
+{
+  "type": "sib_energy_craft:crafting_shaped_charged",
+  "pattern": [
+    "B-C",
+    "B#M",
+    "B-C"
+  ],
+  "key": {
+    "-": {
+      "item": "sib_energy_craft:copper_cable"
+    },
+    "B": {
+      "item": "sib_energy_craft:rechargeable_battery"
+    },
+    "#": {
+      "item": "sib_energy_craft:energy_circuit"
+    },
+    "C": {
+      "item": "sib_energy_craft:iron_item_casing"
+    },
+    "M": {
+      "item": "sib_energy_craft:energy_motor"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:energy_tool_body"
+  }
+}
