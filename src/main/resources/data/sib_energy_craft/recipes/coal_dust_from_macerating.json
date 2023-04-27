@@ -1,0 +1,15 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "group": "coal_dust",
+  "ingredient": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "sib_energy_craft:coal_dust",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingTime": 100
+}

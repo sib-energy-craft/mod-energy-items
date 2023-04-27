@@ -1,0 +1,22 @@
+{
+  "type": "sib_energy_craft:crafting_shaped_charged",
+  "pattern": [
+    " C ",
+    "#R#",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "sib_energy_craft:tin_item_casing"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "sib_energy_craft:tin_cable_isolated"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:rechargeable_battery"
+  }
+}

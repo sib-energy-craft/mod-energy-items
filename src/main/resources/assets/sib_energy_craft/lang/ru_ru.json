@@ -1,0 +1,12 @@
+{
+  "item.sib_energy_craft.diamond_dust": "Алмазная пыль",
+  "item.sib_energy_craft.coal_dust": "Угольная пыль",
+  "item.sib_energy_craft.sulfur_dust": "Серная пыль",
+  "item.sib_energy_craft.energy_dust": "Энергетическая пыль",
+
+  "item.sib_energy_craft.rechargeable_battery": "Аккумуляторная батарейка",
+
+  "item.sib_energy_craft.energy_crystal": "Энергетический кристал",
+  "item.sib_energy_craft.energy_circuit": "Энергетическая плата",
+  "item.sib_energy_craft.advanced_energy_circuit": "Улучшенная энергетическая плата"
+}

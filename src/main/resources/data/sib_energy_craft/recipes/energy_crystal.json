@@ -1,0 +1,12 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "sib_energy_craft:energy_dust",
+    "count": 9
+  },
+  "result": {
+    "item": "sib_energy_craft:energy_crystal"
+  },
+  "experience": 0.05,
+  "cookingTime": 100
+}

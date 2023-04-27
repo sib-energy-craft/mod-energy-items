@@ -1,0 +1,12 @@
+{
+  "item.sib_energy_craft.diamond_dust": "Diamond Dust",
+  "item.sib_energy_craft.coal_dust": "Coal Dust",
+  "item.sib_energy_craft.sulfur_dust": "Sulfur Dust",
+  "item.sib_energy_craft.energy_dust": "Energy Dust",
+
+  "item.sib_energy_craft.rechargeable_battery": "Rechargeable Battery",
+
+  "item.sib_energy_craft.energy_crystal": "Energy Crystal",
+  "item.sib_energy_craft.energy_circuit": "Energy Circuit",
+  "item.sib_energy_craft.advanced_energy_circuit": "Advanced Energy Circuit"
+}
