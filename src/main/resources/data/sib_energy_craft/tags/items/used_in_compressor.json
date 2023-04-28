@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "sib_energy_craft:energy_dust"
+    "sib_energy_craft:energy_dust",
+    "sib_energy_craft:mixed_metal_ingot"
   ]
 }
