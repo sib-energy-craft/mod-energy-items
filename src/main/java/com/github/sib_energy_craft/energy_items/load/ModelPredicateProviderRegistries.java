@@ -2,7 +2,7 @@ package com.github.sib_energy_craft.energy_items.load;
 
 import com.github.sib_energy_craft.energy_api.items.ChargeableItem;
 import com.github.sib_energy_craft.energy_api.utils.Identifiers;
-import com.github.sib_energy_craft.sec_utils.load.ModRegistrar;
+import com.github.sib_energy_craft.sec_utils.load.DefaultModInitializer;
 import net.minecraft.client.item.ClampedModelPredicateProvider;
 import net.minecraft.client.item.ModelPredicateProviderRegistry;
 import net.minecraft.client.world.ClientWorld;
@@ -15,7 +15,7 @@ import org.jetbrains.annotations.Nullable;
  * @since 0.0.1
  * @author sibmaks
  */
-public final class ModelPredicateProviderRegistries implements ModRegistrar {
+public final class ModelPredicateProviderRegistries implements DefaultModInitializer {
     public static final ClampedModelPredicateProvider CHARGED;
 
     static {
