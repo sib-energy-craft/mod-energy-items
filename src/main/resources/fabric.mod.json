@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mod-energy-items",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "authors": [
     "sibmaks"
   ],
@@ -11,8 +11,10 @@
   "entrypoints": {
     "main": [
       "com.github.sib_energy_craft.energy_items.load.Dusts",
-      "com.github.sib_energy_craft.energy_items.load.Items",
-      "com.github.sib_energy_craft.energy_items.load.ModelPredicateProviderRegistries"
+      "com.github.sib_energy_craft.energy_items.load.Items"
+    ],
+    "client": [
+      "com.github.sib_energy_craft.energy_items.load.client.ModelPredicateProviderRegistries"
     ]
   }
 }
