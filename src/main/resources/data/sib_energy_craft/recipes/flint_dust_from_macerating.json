@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "sib_energy_craft:flint_dust",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingTime": 100
+}

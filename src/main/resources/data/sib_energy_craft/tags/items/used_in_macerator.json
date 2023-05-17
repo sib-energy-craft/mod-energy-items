@@ -4,6 +4,7 @@
     "sib_energy_craft:energy_crystal",
     "minecraft:diamond",
     "minecraft:coal",
-    "minecraft:charcoal"
+    "minecraft:charcoal",
+    "minecraft:flint"
   ]
 }

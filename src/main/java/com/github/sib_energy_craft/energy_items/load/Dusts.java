@@ -17,6 +17,7 @@ public final class Dusts implements DefaultModInitializer {
     public static final Item COAL_DUST;
     public static final Item SULFUR_DUST;
     public static final Item ENERGY_DUST;
+    public static final Item FLINT_DUST;
 
     static {
         var commonItem = new Item.Settings()
@@ -26,5 +27,6 @@ public final class Dusts implements DefaultModInitializer {
         COAL_DUST = register(ItemGroups.INGREDIENTS, Identifiers.of("coal_dust"), commonItem);
         SULFUR_DUST = register(ItemGroups.INGREDIENTS, Identifiers.of("sulfur_dust"), commonItem);
         ENERGY_DUST = register(ItemGroups.INGREDIENTS, Identifiers.of("energy_dust"), commonItem);
+        FLINT_DUST = register(ItemGroups.INGREDIENTS, Identifiers.of("flint_dust"), commonItem);
     }
 }
