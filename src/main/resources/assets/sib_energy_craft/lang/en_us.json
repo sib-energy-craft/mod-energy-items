@@ -17,5 +17,9 @@
   "item.sib_energy_craft.energy_tool_body": "Energy Tool Body",
 
   "item.sib_energy_craft.mixed_metal_ingot": "Mixed Metal Ingot",
-  "item.sib_energy_craft.advanced_alloy": "Advanced Alloy"
+  "item.sib_energy_craft.advanced_alloy": "Advanced Alloy",
+
+  "item.sib_energy_craft.carbon_fibres": "Carbon Fibres",
+  "item.sib_energy_craft.combined_carbon_fibres": "Combined Carbon Fibres",
+  "item.sib_energy_craft.carbon_plate": "Carbon Plate"
 }

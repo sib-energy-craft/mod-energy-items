@@ -29,6 +29,10 @@ public final class Items implements DefaultModInitializer {
     public static final Item MIXED_METAL_INGOT;
     public static final Item ADVANCED_ALLOY;
 
+    public static final Item CARBON_FIBRES;
+    public static final Item COMBINED_CARBON_FIBRES;
+    public static final Item CARBON_PLATE;
+
     static {
         var simpleMaterial = new Item.Settings();
 
@@ -52,5 +56,9 @@ public final class Items implements DefaultModInitializer {
         ENERGY_TOOL_BODY = register(ItemGroups.INGREDIENTS, Identifiers.of("energy_tool_body"), energyToolBody);
         MIXED_METAL_INGOT = register(ItemGroups.INGREDIENTS, Identifiers.of("mixed_metal_ingot"), simpleMaterial);
         ADVANCED_ALLOY = register(ItemGroups.INGREDIENTS, Identifiers.of("advanced_alloy"), simpleMaterial);
+
+        CARBON_FIBRES = register(ItemGroups.INGREDIENTS, Identifiers.of("carbon_fibres"), simpleMaterial);
+        COMBINED_CARBON_FIBRES = register(ItemGroups.INGREDIENTS, Identifiers.of("combined_carbon_fibres"), simpleMaterial);
+        CARBON_PLATE = register(ItemGroups.INGREDIENTS, Identifiers.of("carbon_plate"), simpleMaterial);
     }
 }

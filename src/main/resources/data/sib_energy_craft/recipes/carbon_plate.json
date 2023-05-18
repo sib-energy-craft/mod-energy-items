@@ -1,0 +1,11 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "sib_energy_craft:combined_carbon_fibres"
+  },
+  "result": {
+    "item": "sib_energy_craft:carbon_plate"
+  },
+  "experience": 0.05,
+  "cookingTime": 100
+}

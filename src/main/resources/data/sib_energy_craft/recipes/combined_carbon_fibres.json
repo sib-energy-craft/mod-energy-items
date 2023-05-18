@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sib_energy_craft:carbon_fibres"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:combined_carbon_fibres"
+  }
+}

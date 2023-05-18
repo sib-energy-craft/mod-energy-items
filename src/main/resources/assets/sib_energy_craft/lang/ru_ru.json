@@ -17,5 +17,9 @@
   "item.sib_energy_craft.energy_tool_body": "Корпус энергетического инструмента",
 
   "item.sib_energy_craft.mixed_metal_ingot": "Слиток смешанного металла",
-  "item.sib_energy_craft.advanced_alloy": "Усовершенствованный сплав"
+  "item.sib_energy_craft.advanced_alloy": "Усовершенствованный сплав",
+
+  "item.sib_energy_craft.carbon_fibres": "Углеродные волокна",
+  "item.sib_energy_craft.combined_carbon_fibres": "Комбинированные углеродные волокна",
+  "item.sib_energy_craft.carbon_plate": "Углеродная пластина"
 }
