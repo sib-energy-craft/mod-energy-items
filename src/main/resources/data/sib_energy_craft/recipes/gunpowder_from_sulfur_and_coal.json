@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SC"
+  ],
+  "key": {
+    "S": {
+      "item": "sib_energy_craft:sulfur_dust"
+    },
+    "C": {
+      "item": "sib_energy_craft:coal_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}
