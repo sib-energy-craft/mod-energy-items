@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "sib_energy_craft:gunpowder_from_sulfur_and_coal"
+    ]
+  },
+  "criteria": {
+    "has_sulfur_dust": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:sulfur_dust"
+            ]
+          }
+        ]
+      }
+    },
+    "has_coal_dust": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sib_energy_craft:coal_dust"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sib_energy_craft:gunpowder_from_sulfur_and_coal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sulfur_dust",
+      "has_coal_dust",
+      "has_the_recipe"
+    ]
+  ]
+}
